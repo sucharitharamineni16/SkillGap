@@ -1,0 +1,18 @@
+market,region,skill_name,skill_category,industry_focus,demand_count,supply_count,demand_yoy_pct,supply_yoy_pct,gap_count,gap_ratio_pct,readiness_index_pct,forecast_demand_next_24m
+Canada,Ontario,Python,Technical,Technology,3400,2600,11,12,800,23.53,76.47,4189
+Canada,Ontario,SQL,Technical,Technology,3200,2500,8,12,700,21.88,78.12,3732
+Canada,Ontario,Power BI,Technical,Business Intelligence,2100,1700,10,13,400,19.05,80.95,2541
+Canada,Ontario,Tableau,Technical,Business Intelligence,1800,1600,5,7,200,11.11,88.89,1984
+Canada,Ontario,Machine Learning,Technical,AI/ML,2400,1500,17,16,900,37.5,62.5,3285
+Canada,Ontario,Generative AI / Prompting,Technical,AI/ML,1500,800,32,45,700,46.67,53.33,2614
+Canada,Ontario,Data Engineering,Technical,Data,2200,1400,13,16,800,36.36,63.64,2809
+Canada,Ontario,Cloud (Azure),Technical,Cloud,2600,1700,15,18,900,34.62,65.38,3438
+Canada,Ontario,Cybersecurity,Technical,Security,2300,1500,14,16,800,34.78,65.22,2989
+Canada,Ontario,Data Privacy & Compliance,Business,Security,1200,1000,12,10,200,16.67,83.33,1505
+Canada,Ontario,MLOps,Technical,AI/ML,1400,900,20,24,500,35.71,64.29,2016
+Canada,Ontario,LLM Ops,Technical,AI/ML,900,500,28,36,400,44.44,55.56,1475
+Canada,Ontario,Data Governance,Business,Data,1300,1100,9,11,200,15.38,84.62,1545
+Canada,Ontario,DevOps,Technical,Technology,2000,1500,10,12,500,25.0,75.0,2420
+Canada,Ontario,Business Analysis,Business,Business,2800,3000,4,6,-200,-7.14,107.14,3028
+Canada,Ontario,Communication,Soft,General,6000,7800,2,5,-1800,-30.0,120.0,6242
+Canada,Ontario,Project Management,Business,Business,3100,3300,4,6,-200,-6.45,106.45,3353
